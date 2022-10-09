@@ -1,0 +1,53 @@
+.membercontainer {
+    padding: 5px 5px 5px 5px;
+    width: fit-content;
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    text-align: initial;
+    background-color: hsl(69, 48%, 45%);
+    border-radius: 15px;
+    outline-style: groove;
+}
+
+.pic-and-name {
+    display: inline-block;
+    width: 450px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 5px;
+}
+
+.pic1 {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+
+.name {
+    margin-left: 10px;
+    width: fit-content;
+    display: inline-block;
+}
+
+.memberdetails {
+    padding-top: 5px;
+    padding: 5px;
+}
+
+.row {
+    text-align: initial;
+    margin: 0;
+}
+
+.line1 {
+    margin: 0;
+    display: inline-block;
+    text-align: left;
+    width: fit-content;
+}
+
+.line2 {
+    margin: 0;
+    font-size: 24px;
+    float: right;
+}

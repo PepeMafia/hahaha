@@ -1,0 +1,96 @@
+body {
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/25/455587-minimalism-vector_art.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.nav-bar-container {
+    border: solid 1px;
+}
+
+.nav-bar {
+    border: solid 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: #7f926C;
+    border-radius: 12px;
+    display: flex;
+    width: 100%;
+}
+
+.logo-name {
+    border: solid 1px;
+    padding: 5px 5px 5px 5px;
+    margin-left: 15px;
+    width: fit-content;
+    display: inline-block;
+    background-color: #9cb197;
+    border-radius: 19px;
+}
+
+.logo-box {
+    vertical-align: middle;
+    border: solid 1px;
+    display: inline-block;
+}
+
+.logo {
+    width: 80px;
+}
+
+.head-box {
+    border: solid 1px;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
+
+.head {
+    border: solid 1px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 0 0;
+}
+
+.searchbox {
+    border: solid 1px blue;
+    padding: 5px 5px 5px 5px;
+    margin: 0 0 0 0;
+}
+
+.nav-bar-item-box {
+    border: solid 1px yellow;
+    display: inline-block;
+    padding: 15px 10px 15px 10px;
+    margin-right: 25px;
+    position: absolute;
+    right: 5px;
+}
+
+.navbar-items {
+    border: solid 1px red;
+    margin: 0 0 0 0;
+    padding: 5px 5px 5px 5px;
+    width: fit-content;
+    vertical-align: middle;
+}
+
+ul {
+    border: solid 1px;
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    font-size: 21px;
+    padding: 10px 10px 10px 10px;
+    border: solid 1px;
+    display: inline-block;
+}
+
+.content-container {
+    border: solid 1px;
+    margin-top: 15px;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
